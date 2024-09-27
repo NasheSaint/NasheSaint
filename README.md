@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tinashe Masiya
-- 👀 I’m interested in Web Development, Mobile App Development, AL and ML
+- 👀 I’m interested in Web Development, Mobile App Development and UI/UX Designing
 - 🌱 I’m currently learning ReactJS, ExpressJS and TailwindCSS
 - 📫 How to reach me - +263 71 958 6897 | +263 77 548 8054
 
